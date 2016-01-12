@@ -1,6 +1,6 @@
 Jossua's Stamp Collection App
 ---
 
-#About
+#About 2x
 
 Stuff about Jossua Stamps here
